@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Ras
+- 🙇🏻 As a child one day I found it could be a good idea to listen to music with my headphones
+- 💡 but instead of plugging them into some music device or the computer
+- 🔌 I thought it could work well to plug them in the wall socket.
+- ⚡️ That day I got electrocuted...
+- 💻 Now, 15 years later I am a Software Engineer!
+- 👀 I’m interested in full-stack software engineering
+- 🌱 I’m currently creating elegant solutions at the IBM Garage Team
+- 📫 How to reach me ras.alungei@gmail.com
