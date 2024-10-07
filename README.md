@@ -35,13 +35,12 @@ Universidad Politécnica de Madrid, Spain
 
 - 📧 Email: ras.alungei@ibm.com
 - 📱 Phone: (+34) 647 024 238
-- 💼 [LinkedIn](Your-LinkedIn-URL)
-- 🐙 [GitHub](Your-GitHub-URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ras-alungei/)
 
 ## 📝 Publications
 
-- [The ultimate guide for creating accessible tech (Website Edition)](Your-Medium-Article-URL)
-- Thesis: "Crowdsensing in Systems of Systems" (Awarded Highest Distinction) - [Digital Archive](Your-Thesis-URL)
+- [The ultimate guide for creating accessible tech (Website Edition)]([Your-Medium-Article-URL](https://medium.com/@ras-alungei/the-ultimate-guide-for-creating-accessible-tech-website-edition-f562662a7a6b))
+- Thesis: "Crowdsensing in Systems of Systems" (Awarded Highest Distinction) - [Digital Archive](https://oa.upm.es/56084/)
 
 ## 🎨 Interests
 
