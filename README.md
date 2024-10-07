@@ -39,7 +39,7 @@ Universidad Politécnica de Madrid, Spain
 
 ## 📝 Publications
 
-- [The ultimate guide for creating accessible tech (Website Edition)]([Your-Medium-Article-URL](https://medium.com/@ras-alungei/the-ultimate-guide-for-creating-accessible-tech-website-edition-f562662a7a6b))
+- [The ultimate guide for creating accessible tech (Website Edition)](https://medium.com/@ras-alungei/the-ultimate-guide-for-creating-accessible-tech-website-edition-f562662a7a6b)
 - Thesis: "Crowdsensing in Systems of Systems" (Awarded Highest Distinction) - [Digital Archive](https://oa.upm.es/56084/)
 
 ## 🎨 Interests
