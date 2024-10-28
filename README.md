@@ -33,7 +33,7 @@ Universidad Politécnica de Madrid, Spain
 
 ## 🌐 Connect with Me
 
-- 📧 Email: ras.alungei@ibm.com
+- 📧 Email: ras.alungei@gmail.com
 - 📱 Phone: (+34) 647 024 238
 - 💼 [LinkedIn](https://www.linkedin.com/in/ras-alungei/)
 
